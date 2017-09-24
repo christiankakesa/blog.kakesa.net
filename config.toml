@@ -1,3 +1,4 @@
+DefaultContentLanguage = "fr"
 baseurl = "https://kakesa.net/"
 languageCode = "fr-fr"
 title = "Christian Kakesa, Le Blog"
