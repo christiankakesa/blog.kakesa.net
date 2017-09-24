@@ -5,7 +5,7 @@ title = "Christian Kakesa, Le Blog"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = "kakesa-net"
 googleAnalytics = "UA-1496206-2"
 pluralizeListTitles = false
 
