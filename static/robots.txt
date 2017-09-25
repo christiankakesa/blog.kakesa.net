@@ -1,0 +1,5 @@
+# Welcome to Christian Kakesa's blog
+User-Agent: *
+Disallow:
+Sitemap: http://kakesa.net/sitemap.xml
+Sitemap: https://kakesa.net/sitemap.xml
