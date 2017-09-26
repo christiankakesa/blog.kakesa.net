@@ -95,7 +95,7 @@ pluralizeListTitles = false
 #     weight = 999
 
 [[menu.main]]
-    name = "Categories"
+    name = "Catégories"
     url = "/categories/"
     identifier = "fa fa-sitemap"
     weight = 2
