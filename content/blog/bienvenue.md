@@ -1,6 +1,5 @@
 +++
 author = "Christian Kakesa"
-categories = [""]
 date = "2017-09-24"
 description = ""
 featured = ""
