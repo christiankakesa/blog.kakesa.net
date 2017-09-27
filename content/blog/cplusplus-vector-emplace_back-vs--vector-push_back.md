@@ -13,7 +13,7 @@ draft = true
 
 +++
 
-![Logo ISOCPP](/images/logo_cpp_w260.png#center)
+![Logo ISOCPP](/images/logo_cpp_w260.png#floatleft)
 
 Vous avez sans doute déjà lu un programme **C++** qui utilisait **`std::vector::emplace_back`** et vous vous demandiez quelle est la différence avec `std::vector::push_back` ?
 
