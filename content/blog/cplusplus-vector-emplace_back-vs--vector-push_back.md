@@ -2,7 +2,6 @@
 author = "Christian Kakesa"
 categories = ["C++", "Programmation"]
 date = "2017-10-01"
-publishdate = "2017-10-01T08:00:00 +02:00"
 description = ""
 featured = ""
 featuredalt = ""
@@ -30,7 +29,7 @@ Pour tester ces 2 méthodes on va créer une structure **Image** qui contient 2 
 Pour suivre les copies et déplacements des instances, on va implémenter le construsteur par copie et le constructeur par déplacement.
 Vous remarquerez que pour le constructeur par déplacement : `Image(const Image&& image) noexcept`, j'utilise le mot clé **noexcept** qui remplit les conditions nécessaires pour que `std::vector` utilise le constructeur par déplacement plutôt que celui par copie, consommateur en temps et en mémoire.
 
-## Avec std::vector.emplace_back
+## Avec std::vector::emplace_back
 
 Avec `std::vector::emplace_back`, pour stocker nos **3 objets** dans notre conteneur, on utilise 3 fois le constructeur par déplacement ; en optimisant le code avec `images.reserve(3)`, **on ne fait pas appel au constructeur par déplacement** et l'instance est créée directement à l'emplacement prévu. Lorsqu'on fournit le nombre d'élément dont on a besoin, le programme n'a pas besoin de réservé des objets vides dans notre conteneur (`std::vector::capacity`).
 Ça semble parfait.
@@ -77,7 +76,7 @@ int main() {
 
 ```
 
-## Avec std::vector.push_back
+## Avec std::vector::push_back
 
 Avec `std::vector::push_bak`, pour stocker nos **3 objets**, on utilise **6 fois le constructeur par déplacement**.
 <i>Kezako</i> !
@@ -121,3 +120,5 @@ int main() {
 }
 
 ```
+
+À bientôt !
