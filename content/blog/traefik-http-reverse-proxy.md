@@ -1,7 +1,7 @@
 +++
 author = "Christian Kakesa"
 categories = ["Traefik", "HTTP", "Reverse proxy"]
-date = "2017-10-01"
+date = "2017-10-08"
 description = ""
 featured = ""
 featuredalt = ""
