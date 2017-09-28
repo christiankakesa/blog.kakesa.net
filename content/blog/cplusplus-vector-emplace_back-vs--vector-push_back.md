@@ -56,20 +56,24 @@ struct Image {
   std::string name;
   std::string type;
   
-  Image(std::string name, std::string type = "png"): name(name), type(type) {}
-  Image(const Image& image): name(image.name), type(image.type) {
+  Image(std::string name, std::string type = "png"): name{name}, type{type} {}
+  Image(const Image& image): name{image.name}, type{image.type}
+  {
     std::cout << "Copied!" << std::endl;
   }
-  Image(const Image&& image) noexcept : name(std::move(image.name)), type(std::move(image.type)) {
+  Image(const Image&& image) noexcept : name{std::move(image.name)}, type{std::move(image.type)}
+  {
     std::cout << "Moved!" << std::endl;
   }
 };
 
-int main() {
+int main()
+{
   std::vector<Image> images;
+
   images.reserve(3);
-  images.emplace_back("destiny_2.png", "png");
-  images.emplace_back("transformers_forged-to-fight.png", "png");
+  images.emplace_back("destiny_2.png");
+  images.emplace_back("transformers_forged-to-fight.png");
   images.emplace_back("cat.gif", "gif");
 
   return EXIT_SUCCESS;
@@ -102,21 +106,25 @@ struct Image {
   std::string name;
   std::string type;
   
-  Image(std::string name, std::string type = "png"): name(name), type(type) {}
-  Image(const Image& image): name(image.name), type(image.type) {
+  Image(std::string name, std::string type = "png"): name{name}, type{type} {}
+  Image(const Image& image): name{image.name}, type{image.type}
+  {
     std::cout << "Copied!" << std::endl;
   }
-  Image(const Image&& image) noexcept : name(std::move(image.name)), type(std::move(image.type)) {
+  Image(const Image&& image) noexcept : name{std::move(image.name)}, type{std::move(image.type)}
+  {
     std::cout << "Moved!" << std::endl;
   }
 };
 
-int main() {
+int main()
+{
   std::vector<Image> images;
-  images.push_back(Image("destiny_2.png", "png"));
-  images.push_back(Image("transformers_forged-to-fight.png", "png"));
+
+  images.push_back(Image("destiny_2.png"));
+  images.push_back(Image("transformers_forged-to-fight.png"));
   images.push_back(Image("cat.gif", "gif"));
-  
+
   return EXIT_SUCCESS;
 }
 
