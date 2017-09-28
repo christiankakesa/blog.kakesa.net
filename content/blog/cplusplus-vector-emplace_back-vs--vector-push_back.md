@@ -121,9 +121,9 @@ int main()
 {
   std::vector<Image> images;
 
-  images.push_back(Image("destiny_2.png"));
-  images.push_back(Image("transformers_forged-to-fight.png"));
-  images.push_back(Image("cat.gif", "gif"));
+  images.push_back(Image{"destiny_2.png"});
+  images.push_back(Image{"transformers_forged-to-fight.png"});
+  images.push_back(Image{"cat.gif", "gif"});
 
   return EXIT_SUCCESS;
 }
