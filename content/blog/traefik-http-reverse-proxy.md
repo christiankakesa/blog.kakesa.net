@@ -1,7 +1,7 @@
 ---
 author: "Christian Kakesa"
 categories: ["Traefik", "HTTP", "Reverse proxy"]
-date: 2017-10-08T08:00:00+02:00
+date: 2017-10-08T15:00:00+02:00
 description: ""
 featured: ""
 featuredalt: ""
