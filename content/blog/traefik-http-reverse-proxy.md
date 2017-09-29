@@ -7,7 +7,7 @@ featured: ""
 featuredalt: ""
 featuredpath: ""
 linktitle: ""
-title: "Traefik, un reverse proxy HTTP moderne"
+title: "Traefik, Un Reverse Proxy HTTP Moderne"
 type: "post"
 draft: true
 ---
