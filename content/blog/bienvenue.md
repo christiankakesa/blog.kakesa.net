@@ -1,15 +1,14 @@
-+++
-author = "Christian Kakesa"
-date = "2017-09-24"
-description = ""
-featured = ""
-featuredalt = ""
-featuredpath = ""
-linktitle = ""
-title = "Nouveau blog pour cette rentrée 2017"
-type = "post"
-
-+++
+---
+author: "Christian Kakesa"
+date: 2017-09-24T08:00:00+02:00
+description: ""
+featured: ""
+featuredalt: ""
+featuredpath: ""
+linktitle: ""
+title: "Nouveau blog pour cette rentrée 2017"
+type: "post"
+---
 
 Bonjour à toutes et à tous.
 

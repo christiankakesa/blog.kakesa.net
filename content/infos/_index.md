@@ -1,7 +1,7 @@
-+++
-title = "À propos de Christian Kakesa"
-date = "2017-09-24"
-+++
+---
+title: "À propos de Christian Kakesa"
+date: 2017-09-24T08:00:00+02:00
+---
 
 Quelques notes me conernant.
 
