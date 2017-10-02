@@ -4,10 +4,11 @@ languageCode = "fr-fr"
 title = "Christian Kakesa, Le Blog"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 5
 disqusShortname = "kakesa-net"
 googleAnalytics = "UA-1496206-2"
 pluralizeListTitles = false
+enableRobotsTXT = false
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
@@ -77,7 +78,7 @@ pluralizeListTitles = false
 # Adjust the amount of recent posts on the sidebar.
 # This is optional. The default value 5 will be used
 [params.postAmount]
-    sidebar = 2
+    sidebar = 5
 
 # Set up your menu items in the navigation bar
 # You can use identifier to prepend a font awesome icon to your text

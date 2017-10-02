@@ -1,12 +1,7 @@
 ---
 author: "Christian Kakesa"
-categories: ["C++", "Programmation"]
 date: 2017-09-27T08:00:00+02:00
-description: ""
-featured: ""
-featuredalt: ""
-featuredpath: ""
-linktitle: ""
+categories: ["C++", "Programmation"]
 title: "C++ std::vector::emplace_back VS std::vector::push_back"
 type: "post"
 ---

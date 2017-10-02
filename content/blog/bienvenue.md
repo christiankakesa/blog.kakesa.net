@@ -6,6 +6,7 @@ featured: ""
 featuredalt: ""
 featuredpath: ""
 linktitle: ""
+categories: []
 title: "Nouveau blog pour cette rentrée 2017"
 type: "post"
 ---
