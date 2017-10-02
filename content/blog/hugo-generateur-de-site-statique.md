@@ -63,9 +63,9 @@ Puisque tous mes projets, y compris mon blog, sont déployés sur **[Apache Meso
 Le workflow pour mettre à jour mon blog est tout aussi simple : 
 
   1. Écriture d'un nouveau post
-  2. Git push de la branche *master* sur *Github*
-  3. Redémarrage de l'application depuis *Marathon*
+  2. Git commit/push de la branche *master* sur *Github*
+  3. Redémarrage de l'application depuis *Marathon* pour la prise en compte
 
 Et voilà, c'est tout.
 
-> Je pourrais limiter mon workflow à 2 étapes : `1. écriture du post`,  `2. git push origin master` qui déclencherai automatiquement un redémarrage sur *Marathon* ; mais je préfère garder les 3 étapes pour plus de souplesse dans l'élaboration de mes contenus.
+> Je pourrais limiter mon workflow à 2 étapes : `1. écriture du post`, `2. git commit/push` qui déclencherais automatiquement un redémarrage sur *Marathon* ; mais je préfère garder les 3 étapes pour plus de souplesse dans l'élaboration de mes contenus.
