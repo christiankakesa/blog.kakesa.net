@@ -4,7 +4,6 @@ date: 2017-10-02T08:00:00+02:00
 categories: ["Go", "Programming"]
 title: "Hugo, Un Puissant Generateur De Site Statique"
 type: "post"
-draft: true
 ---
 
 C'est une première pour mon blog de passer par un moteur de génération de site internet statique.
