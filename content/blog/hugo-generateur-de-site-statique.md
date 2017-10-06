@@ -15,7 +15,7 @@ Mon choix s'est arrêté sur [Hugo](https://gohugo.io/) écrit en [Go](https://g
 C'est un prétexte suffisant pour découvrir un projet qui n'arrête pas de monter en popularité et [les exemples de sites internets](https://themes.gohugo.io/) sont vraiment très différents des uns des autres ; tant en *design* qu'en apparence.
 Si on se fie à sa popularité sur [Github](https://github.com/), c'est le second moteur après *Jekyll* : https://www.staticgen.com.
 
-![Logo Hugo](/images/logo_hugo.svg#center)
+![Logo Hugo](/images/logo_hugo.png#center)
 
 Pourquoi *Hugo* ? Tout d'abord pour sa simplicité, à 2 niveaux, les articles sont écrits en <abbr title="HyperText Markup Language">HTML</abbr> ou [Markdown](https://wikipedia.org/wiki/Markdown) et le binaire statique **hugo** (c'est du Go) permet de tout faire : 
 
@@ -29,7 +29,12 @@ Pourquoi *Hugo* ? Tout d'abord pour sa simplicité, à 2 niveaux, les articles s
 L'autre point qui m'a vraiment plu, c'est le nombre de thème proposé : https://themes.gohugo.io/.
 Tout le monde s'y retrouve.
 
-Puisque tous mes projets, y compris mon blog, sont déployés sur **[Apache Mesos](http://mesos.apache.org/)**, orchestrés par le framework *Mesos* **[Marathon](https://mesosphere.github.io/marathon/)** et pour mes jobs le framework *Mesos* **[Chronos](https://mesos.github.io/chronos/)** ; le choix d'architecture était tout simple avec les éléments suivants : 
+Puisque tous mes projets, y compris mon blog, sont déployés sur **[Apache Mesos](http://mesos.apache.org/)**, orchestrés par le framework *Mesos* **[Marathon](https://mesosphere.github.io/marathon/)** et pour mes jobs le framework *Mesos* **[Chronos](https://mesos.github.io/chronos/)**.
+
+![Logo Apache Mesos](/images/logo_apache-mesos_260x260.png) ![Logo Marathon : Apache Mesos framework](/images/logo_marathon-mesos-framework_260x260.png) ![Logo Chronos : Apache Mesos framework](/images/logo_chronos-mesos-framework_260x260.png)
+
+
+Le choix d'architecture était tout simple avec les éléments suivants : 
 
   * Mon blog est hébergé sur *Github* ; *Github* fournit une URL permettant de récupérer l'archive de la branche *master*
   * Le projet *Hugo* est aussi disponible sur *Github*, je peux récupérer l'archive du binaire **hugo** pour ma plateforme (Linux x86_64)
