@@ -23,6 +23,16 @@ class Stream
     attr_accessor :chunk
   end
 end
+# Strictement équivalent au code suivant
+class Stream
+  def self.chunk
+    @chunk
+  end
+
+  def self.chunk=(value)
+    @chunk = value
+  end
+end
 ```
 
 > Pour une meilleure compréhension, nous allons utiliser cette version un peu longue : 
