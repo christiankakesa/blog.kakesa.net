@@ -51,7 +51,7 @@ end
 puts Stream.get
 puts Stream.set('OK')
 @chunk = 'Noonoonoon !'
-puts Stream.get # 8-)
+puts Stream.get # 8~)
 ```
 
 Résultat :
