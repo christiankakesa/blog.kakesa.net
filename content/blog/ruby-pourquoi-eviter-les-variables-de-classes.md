@@ -19,6 +19,16 @@ En [Ruby](https://www.ruby-lang.org), il vaut mieux utiliser une méthode de cla
 
 ```ruby
 class Stream
+  class <<self
+    attr_accessor :chunk
+  end
+end
+```
+
+> Pour une meilleure compréhension, nous allons utiliser cette version un peu longue : 
+
+```ruby
+class Stream
   def self.get
     @chunk ||= 'init'
   end
