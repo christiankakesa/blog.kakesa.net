@@ -1,7 +1,7 @@
 ---
 author: "Christian Kakesa"
 date: 2017-10-02T08:00:00+02:00
-categories: ["Go", "Programming"]
+categories: ["Go"]
 title: "Hugo, Un Puissant Generateur De Site Statique"
 type: "post"
 ---
