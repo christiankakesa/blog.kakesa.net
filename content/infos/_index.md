@@ -3,14 +3,14 @@ title: "À propos de Christian Kakesa"
 date: 2017-09-24T08:00:00+02:00
 ---
 
-Quelques notes me conernant.
+Quelques notes me conernant...
 
 ## Mes langages de programmation préférés
 
 * [Ruby](https://www.ruby-lang.org)
-* [C++](https://isocpp.org/)
 * [Go](http://golang.org/)
-* Je teste [Crystal](https://crystal-lang.org/)
+* [C++](https://isocpp.org/)
+* [Crystal](https://crystal-lang.org/)
 
 ## Me retrouver sur les réseaux sociaux
 
