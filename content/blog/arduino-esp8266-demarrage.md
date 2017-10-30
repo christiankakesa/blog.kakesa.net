@@ -64,4 +64,6 @@ void loop() {
 
 Le prochain article expliquera les fonctions `void setup();` et `void loop();`, puis affichera sur le *moniteur série* la valeur du capteur de lumière de notre montage.
 
-> On est loin de mon expérience [FPGA](https://fr.wikipedia.org/wiki/Circuit_logique_programmable) avec l'[IDE de Xilinx](https://www.xilinx.com/products/design-tools/ise-design-suite/ise-webpack.html) qui me semblait tout de même assez complexe il y a plusieurs années. Je vais progresser en même temps que mes articles sur Arduino et dans un premier temps avec la carte *ESP8266*.
+> On est loin de mon expérience [FPGA](https://fr.wikipedia.org/wiki/Circuit_logique_programmable) avec l'[IDE de Xilinx](https://www.xilinx.com/products/design-tools/ise-design-suite/ise-webpack.html) qui me semblait tout de même assez complexe il y a plusieurs années.
+
+> Je vais poursuivre cette prise en main d'Arduino et plius généralement de la programmation sur microcontrôleur avec la carte *ESP8266*.
