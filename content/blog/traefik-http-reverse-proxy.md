@@ -1,9 +1,8 @@
 ---
 author: "Christian Kakesa"
 categories: ["Traefik", "HTTP", "Réseau"]
-date: 2017-11-26T01:05:00+02:00
+date: 2017-11-26T01:18:00+02:00
 description: ""
-draft: true
 featured: ""
 featuredalt: ""
 featuredpath: ""
