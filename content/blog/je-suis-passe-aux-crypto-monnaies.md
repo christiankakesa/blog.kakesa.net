@@ -3,7 +3,7 @@ author: "Christian Kakesa"
 categories: ["Blockchain", "Bitcoin", "Crypto", "Crypto-monnaies", "Ethereum", "Smarts contracts"]
 date: 2018-02-19T03:52:44+01:00
 description: ""
-draft: true
+draft: false
 title: "Je Suis Passé Aux Crypto Monnaies"
 type: "post"
 ---
