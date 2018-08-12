@@ -21,7 +21,7 @@ Et oui, ça fait 3 ans que j'ai lu un article assez complet dessus mais je ne tr
 > Tout d'abord on commence la semaine avec un planning familiale et on y intègre des sessions de code Ruby, rien de bien méchant.
 > La 2éme moitié de la semaine est plus intéressante, j'attaque des vidéos et lectures qui me décrivent la Blockchain et le Bitcoin (le protocol) puis la crypto-monnaies bitcoin.
 > C'est là que les choses s'emballent, du jeudi 09 décembre 2017 à nos jours je suis constamment en train de __miner des crypto__, __trader__, étudier le white paper d'une __ICO__ ou encore lire du code source des algorithmes de minage ou des différentes __Blockchain__.
-> Les idées pillules dans ma tête, les applicatiions de la Blockchain dans les domaines qui en ont réellement besoin deviennent évidentes, des projets possibles par dizaines, etc...
+> Les idées pillules dans ma tête, les applications de la Blockchain dans les domaines qui en ont réellement besoin deviennent évidentes, des projets possibles par dizaines, etc...
 
 Bref, un article pour dire que les prochains parleront sans doute de la Blockchain et de son éco-système.
 
