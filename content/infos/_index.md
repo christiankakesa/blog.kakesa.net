@@ -7,10 +7,10 @@ Quelques notes me conernant...
 
 ## Mes langages de programmation préférés
 
-* [Ruby](https://www.ruby-lang.org)
 * [Go](http://golang.org/)
-* [C++](https://isocpp.org/)
 * [Crystal](https://crystal-lang.org/)
+* [Ruby](https://www.ruby-lang.org)
+* [C++](https://isocpp.org/)
 
 ## Me retrouver sur les réseaux sociaux
 
