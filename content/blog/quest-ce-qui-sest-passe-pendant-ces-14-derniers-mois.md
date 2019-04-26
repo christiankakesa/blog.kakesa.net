@@ -120,12 +120,12 @@ J'écrirai des arcticles plus précis prochainment, pour l'heure voici les compo
 + [Fiber](https://www.skycoin.net/fiber) : Blockchain (en quelque sorte) hautement extensible et parallélisable. Les performances en nombre de transactions sont de 300 TPS par blockchain, l'objectif étant d'arriver à 3000 TPS.
 + [Skywire](https://www.skycoin.net/skywire) (Mesh network) : Réseau à maille (ou réseau maillé), résistant à la censure, où tout le monde peut être son propre fournisseur d'accès avec du matériel peu coûteux.
 + [CX](https://www.skycoin.net/cx) : Langage de programmation compilé et interprété, adapté au monde de la Blockchain (sécurité). Il se base sur le Go (golang).
-+ [CXO](https://www.skycoin.net/cxo) (CX Object Systems) : Structure de données distribuée permettant de stockage dans un contexte décentralisé tel que la Blockchain ou le *cloud computing*.
-+ [Obelisk](https://www.skycoin.net/obelisk) : Consensus du réseau de la Blockchain Fiber et des noeuds Skywire. C'est le gendarme de l'éco-système Skycoin.
++ [CXO](https://www.skycoin.net/cxo) (CX Object Systems) : Structure de données distribuée permettant le stockage dans un contexte décentralisé tel que la Blockchain ou le *cloud computing*.
++ [Obelisk](https://www.skycoin.net/obelisk) : Consensus du réseau de la Blockchain Fiber et des noeuds Skywire. C'est le gendarme de l'éco-système Skycoin ; conrètement une intelligence artificielle.
 
 Quelques liens sur mes initiatives dans le projet **Skycoin** :
 
-+ Vous pouvez-vous retrouver la communauté française du projet sur Telegram : <https://t.me/Skycoin_France>
++ Vous pouvez retrouver la communauté française du projet sur Telegram : <https://t.me/Skycoin_France>
 + Rejoindre le meetup parisien : <https://www.meetup.com/fr-FR/Skycoin-Paris>
 + Un outil que j'ai créé pour la surveillance des noeuds Skywire : <https://skywire-node.bchain.ovh>
 
