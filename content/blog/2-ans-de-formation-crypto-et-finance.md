@@ -44,7 +44,7 @@ Je pense qu'il vaut mieux participer et devenir un acteur des crypto monnaies pl
 
 Le Bitcoin, quant à lui, montre plus d'intérêt vis-à-vis des institutionnels.
 Des pays tels que la Chine ont créé une crypto monnaie étatique qui vise à mieux gérer la volatitilé de leur monnaie-fiat, le Yuan pour la Chine.
-Le test à l'échelle a étét fait avec _DiDi_ le _Uber_ chinois.
+Le test à l'échelle a été fait avec _DiDi_ le _Uber_ chinois.
 
 Plusieurs types de crypto monnaies existent, pour ma part je me concentre sur ceux qui permettent d'obtenir des revenus passifs et ont ou auront, selon moi, un impact majeur.
 Il m'est assez facile d'analyser un projet crypto et décider de m'y interesser ou non.
@@ -62,7 +62,7 @@ Globalement je me suis éduqué financièrement :
 
 * J'ai une meilleure compréhension de ce qu'est _réellement_ le capitalisme/libéralisme
 * J'ai aussi appris à évaluer les impacts de l'actualité sur divers domaines d'activités
-* C'est aussi baucoup une gymnastique mentale
+* C'est aussi, pour beaucoup, une gymnastique mentale
 
 Mon passé de sportif aide grandement, c'est comme répéter des milliers de fois un mouvement à l'entraînement jusqu'à ce qu'il deviennent instinctif. D'autres aptitudes tels que la concentration, la persévérance, le calme participent à améliorer son niveau.
 
