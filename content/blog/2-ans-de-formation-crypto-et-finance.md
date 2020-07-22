@@ -52,7 +52,7 @@ Le fait d'être au point techniquement aide grandement.
 
 Je fais moins d'erreurs sur les bons projets et ça me va très bien !
 
-## REX surles marchés financiers _legacy_
+## REX sur les marchés financiers _legacy_
 
 Il aurait été dommage de ne pas mettre à profit toutes les connaissances acquisent ces dernières années en crypto monnaies sur le marché des actions, et oui ça fera 3 ans le 6 décembre 2020.
 
