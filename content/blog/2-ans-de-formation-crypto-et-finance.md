@@ -23,7 +23,7 @@ Plusieurs choses expliquent tout ceci :
 > * Finaliser les projets qui dorment depuis trop longtemps
 > * Profiter de la vie et se focaliser sur les choses importantes pour-soi et les siens
 
-Le 6 décembre 2017, je démarrais l'aventure _Blockchain_, puis _Crypto_monnaie_ qui m'a mené à l'investissement financier.
+Le 6 décembre 2017, je démarrais l'aventure _Blockchain_, puis _Crypto-monnaie_ qui m'a mené à l'investissement financier.
 Ce parcours est semé de difficultés mais aussi de satisfactions, surtout lorsque que certaines activités tels que acheter et revendre des actifs deviennent instinctifs ou tout simplement faciles voir même très claires.
 
 ## REX sur la Blockchain
