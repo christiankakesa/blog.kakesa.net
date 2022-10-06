@@ -14,7 +14,7 @@ Quelques notes me concernant...
 
 ## Me retrouver sur les réseaux sociaux
 
-* <i class="fa fa-github"></i> [Mon Github](https://github.com/fenicks)
+* <i class="fa fa-github"></i> [Mon Github](https://github.com/christiankakesa)
 * <i class="fa fa-twitter"></i> [Mon Twitter](https://twitter.com/christiankakesa)
 * <i class="fa fa-linkedin"></i> [Mon linkedin](https://www.linkedin.com/in/christiankakesa/)
 

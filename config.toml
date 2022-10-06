@@ -117,7 +117,7 @@ enableRobotsTXT = false
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area
 # The social media icons will appear on the sidebar
 [social]
-    github          = "fenicks"
+    github          = "christiankakesa"
     bitbucket       = ""
     jsfiddle        = ""
     codepen         = ""

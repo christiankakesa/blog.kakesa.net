@@ -57,7 +57,7 @@ Le choix d'architecture était tout simple avec les éléments suivants :
       "ports": [65000],
       "uris": [
         "https://github.com/gohugoio/hugo/releases/download/v0.29/hugo_0.29_Linux-64bit.tar.gz",
-        "https://github.com/fenicks/kakesa.net/archive/master.zip"
+        "https://github.com/christiankakesa/kakesa.net/archive/master.zip"
       ]
     }
   ]
